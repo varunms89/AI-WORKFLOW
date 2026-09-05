@@ -1,0 +1,8 @@
+{
+  "name": "AI Workflow",
+  "description": "Automated 5-phase client order operational workflow and host WhatsApp dispatch system",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
